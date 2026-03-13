@@ -110,10 +110,7 @@ plt.show()
 # Output Waveform
 # ASK
 
-```
-```
+# FSK
+
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Thus, the ASK and FSK were performed using Colab
