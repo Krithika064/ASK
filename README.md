@@ -1,3 +1,6 @@
+# Name: Krithika sherin A.O
+# Reg No: 212224060129
+# ASK and FSK
 
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
@@ -109,8 +112,12 @@ plt.show()
 ```
 # Output Waveform
 # ASK
+<img width="988" height="898" alt="Screenshot 2026-03-19 124741" src="https://github.com/user-attachments/assets/9c197ec0-9cc3-452b-85b5-7a64ceffc30b" />
+
 
 # FSK
+<img width="998" height="984" alt="Screenshot 2026-03-19 130228" src="https://github.com/user-attachments/assets/130ab1fc-535f-44a3-86f2-6fe5f40bfbae" />
+
 
 # Results
 Thus, the ASK and FSK were performed using Colab
